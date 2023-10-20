@@ -7,7 +7,3 @@ console.log('version', version())
 console.log('Arquitectura', arch())
 console.log('CPUs', cpus())
 console.log('Uptime', uptime())
-
-
-
-
