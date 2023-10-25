@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/j0t4ku/curso-node-js#readme",
   "dependencies": {
-    "picocolors": "1.0.0"
+    "picocolors": "1.0.0",
+    "servor": "^4.0.2"
   },
   "devDependencies": {
     "standard": "^17.1.0"
